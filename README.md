@@ -34,5 +34,5 @@ Select a cryptocurrency, investment date, amount, and target date, then click **
 
 ---
 
-For any queries or contributions, please feel free to contact.
+For any queries or contributions, please feel free to contact(fayaz@bu.edu)
 
