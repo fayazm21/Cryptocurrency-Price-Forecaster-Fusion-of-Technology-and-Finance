@@ -32,6 +32,14 @@ An interactive dashboard is provided for enhanced user experience.
 ## Using the Dashboard
 Select a cryptocurrency, investment date, amount, and target date, then click **"Apply"** to view predictions and potential outcomes.
 
+## Snapshots and Demonstrations
+Snapshots of the user interface we developed, as well as line plots showcasing cryptocurrency price predictions, offering a visual representation of the project's analytical capabilities and user experience.
+![result1](results/img1.png)
+![result2](results/img2.png)
+![result3](results/img3.png)
+![result4](results/img4.png)
+
+
 ---
 
 For any queries or contributions, please feel free to contact(fayaz@bu.edu)
